@@ -1,0 +1,16 @@
+.active{
+    color:red;
+    font-weight: "bold";
+  }
+  .cell{
+    background-color: chocolate;
+    font-size: medium;
+    color: wheat;
+    border-right-color: black;
+    border-right-width: 10px;
+    width:25%;
+  }
+  .lastCell{
+      width: 100%;
+      background-color: chocolate;
+  }
